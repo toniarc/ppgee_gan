@@ -1,0 +1,7 @@
+synthetic_dataset.pkl
+/venv/**
+/metrics/**
+/vanilla_gan_samples/**
+/wgan_samples/**
+dataset_samples.png
+/analises/**

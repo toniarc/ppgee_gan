@@ -1,0 +1,39 @@
+# Core scientific computing libraries
+numpy>=1.24.0
+matplotlib>=3.6.0
+
+# Deep learning frameworks (choose one or both)
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.13.0
+
+# Data handling and utilities
+pandas>=2.0.0
+scikit-learn>=1.3.0
+Pillow>=10.0.0
+
+# Visualization libraries
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Progress bars and utilities
+tqdm>=4.65.0
+
+# Jupyter notebook support (if you plan to use notebooks)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Image processing (additional)
+opencv-python>=4.8.0
+imageio>=2.31.0
+
+# Model evaluation and metrics
+tensorboard>=2.13.0
+
+# Optional: GPU acceleration (uncomment if you have CUDA)
+# torch[cuda]>=2.0.0
+
+# Development and testing tools (optional)
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
